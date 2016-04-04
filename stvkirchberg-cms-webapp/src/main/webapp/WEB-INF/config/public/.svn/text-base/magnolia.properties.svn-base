@@ -1,0 +1,4 @@
+magnolia.bootstrap.authorInstance=false
+
+# Location of private and public keys used for activation
+magnolia.author.key.location=WEB-INF/config/public/keypair.properties
