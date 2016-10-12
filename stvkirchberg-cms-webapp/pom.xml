@@ -56,7 +56,7 @@
 	<dependency>
 	  <groupId>ch.stvkirchberg</groupId>
 	  <artifactId>stvkirchberg-module</artifactId>
-	  <version>1.0.384-SNAPSHOT</version>
+	  <version>1.0.390-SNAPSHOT</version>
 	</dependency>
   </dependencies>
 
